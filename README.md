@@ -2,7 +2,8 @@
 
 A production-style, beginner-friendly CLI toolkit for real-world file automation and system organization.
 
-This project is designed to help learning Python by building **practical automation tools** while developing clean software engineering habits.
+This project is designed to help learning Python by building **practical automation tools** while developing clean
+software engineering habits.
 
 It focuses on modular architecture, safe file operations, and real CLI-based workflows similar to professional tooling.
 
@@ -20,7 +21,7 @@ This repository is not just a learning exercise — it is a structured Python to
 
 ---
 
-##  Core Principles
+## Core Principles
 
 This project follows professional development principles:
 
@@ -75,6 +76,7 @@ Download from:
 https://www.python.org/downloads/
 
 ⚠️ Make sure to enable:
+
 - **Add Python to PATH**
 
 ---
@@ -124,3 +126,18 @@ All tools in this project follow safe execution rules:
 - Dry-run mode before execution
 - Explicit confirmation for destructive actions
 - Transparent operation logging
+
+**Note: I have tried to implement the code according to these safety principles. However, I am not a professional
+developer and am still actively learning. Therefore, I cannot guarantee that all edge cases or safety-critical scenarios
+are fully covered. Feedback and improvements are always welcome.**
+
+**All software in this repository is provided "as is", without any warranties or guarantees of any kind, either expressed
+or implied. The author assumes no responsibility or liability for any damages, data loss, or issues that may arise from
+the use or misuse of this code.**
+
+**Use of this software is entirely at your own risk.**
+
+**Important notice for CLI and shell usage:** This toolkit contains command-line and automation scripts that may directly
+interact with your file system and operating system. Improper use, incorrect parameters, or unintended execution in the
+wrong directory can lead to data loss, file modification, or system-level changes. Users should only run these scripts
+if they understand basic CLI/shell operations and always verify commands before execution.
