@@ -83,7 +83,7 @@ https://www.python.org/downloads/
 
 #### Option A – IDE (Recommended)
 
-- Open PyCharm → “Get from VCS”
+- Open IDE → “Get from VCS”
 - Paste repository URL
 - Clone project
 
