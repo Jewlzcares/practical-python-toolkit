@@ -1,8 +1,8 @@
-# 🐍 Python Automation Toolkit
+# 🐍 Practical Python Toolkit
 
 A production-style, beginner-friendly CLI toolkit for real-world file automation and system organization.
 
-This project is designed to help me learn Python by building **practical automation tools** while developing clean software engineering habits.
+This project is designed to help learning Python by building **practical automation tools** while developing clean software engineering habits.
 
 It focuses on modular architecture, safe file operations, and real CLI-based workflows similar to professional tooling.
 
@@ -81,7 +81,7 @@ https://www.python.org/downloads/
 
 ### 3. Clone Repository
 
-#### Option A – IDE (Recommended)
+#### Option A – IDE
 
 - Open IDE → “Get from VCS”
 - Paste repository URL
