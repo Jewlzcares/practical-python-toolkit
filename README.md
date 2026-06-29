@@ -9,6 +9,12 @@ It focuses on modular architecture, safe file operations, and real CLI-based wor
 
 ---
 
+## Helpful Links and Documentation
+
+[PowerShell Basics](docs/powershell_basics.md)
+
+---
+
 ## Purpose of this Project
 
 This repository is not just a learning exercise — it is a structured Python toolkit designed to:
