@@ -153,7 +153,7 @@ def run_duplicate_cleaner(path: str, delete: bool = False):
 
             # Then this file is a duplicate
             duplicates.append((file, seen_hashes[file_hash]))
-            print(f"{GREEN}[Evaluation]{RESET} > This is a duplicate. Added to duplicates.\n")
+            print(f"{YELLOW}[Evaluation]{RESET} > This is a duplicate. Added to duplicates.\n")
 
         else:
             # Otherwise, store it as the original
